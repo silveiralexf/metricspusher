@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/prometheus/client_golang v1.14.0
 	github.com/rodaine/table v1.1.0
-	github.com/sirupsen/logrus v1.9.0
+	github.com/sirupsen/logrus v1.9.1
 	github.com/spf13/cobra v1.6.1
 )
 
